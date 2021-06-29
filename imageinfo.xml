@@ -1,0 +1,15 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/initial-h.png" filesize="7136" filedate="2018-11-11 10:23:02" width="169px" height="178px"/>
+<image path="images/initial-m.png" filesize="7291" filedate="2018-11-11 10:23:02" width="168px" height="173px"/>
+<image path="images/initial-o.png" filesize="8279" filedate="2018-11-11 10:23:03" width="170px" height="191px"/>
+<image path="images/initial-t.png" filesize="6226" filedate="2018-11-11 10:23:03" width="164px" height="170px"/>
+<image path="images/new-cover.jpg" filesize="49964" filedate="2021-02-16 21:17:22" width="480px" height="720px"/>
+<image path="images/ornament1.png" filesize="14128" filedate="2018-11-11 10:23:04" width="521px" height="99px"/>
+<image path="images/ornament2.png" filesize="18510" filedate="2018-11-11 10:23:05" width="507px" height="134px"/>
+<image path="images/ornament4.png" filesize="15904" filedate="2018-11-11 10:23:05" width="504px" height="111px"/>
+<image path="images/ornament5.png" filesize="2947" filedate="2018-11-11 10:23:08" width="256px" height="55px"/>
+<image path="images/ornament6.png" filesize="18325" filedate="2018-11-11 10:23:09" width="518px" height="160px"/>
+<image path="images/ornament7.png" filesize="3226" filedate="2018-11-11 10:23:12" width="194px" height="100px"/>
+<image path="images/qr41200.png" filesize="265" filedate="2021-06-02 22:21:04" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="8129" filedate="2018-11-11 10:23:23" width="438px" height="720px"/>
+</images>

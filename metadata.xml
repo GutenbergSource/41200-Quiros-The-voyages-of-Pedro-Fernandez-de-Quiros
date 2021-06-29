@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The voyages of Pedro Fernandez de Quiros, 1595-1606, Volume 1 of 2</dc:title>
+      <dc:creator>Pedro Fernandes de Quiros (1565–1615)</dc:creator>
+      <dc:creator>Clements Robert Markham (1830–1916)</dc:creator>
+      <dc:creator>Basil Harrington Soulsby (1864–1933)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2012-10-27</dc:publisher>
+      <dc:date>2012-10-27</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from the Internet Archive. (Volume I: copy 1, 2, 3; Volume II: 1, 2, 3)
+
+
+
+</dc:rights>
+      <dc:subject>Discoveries in geography -- Spanish</dc:subject>
+      <dc:subject>Oceania -- Discovery and exploration</dc:subject>
+      <dc:subject>Queirós, Pedro Fernandes de, d. 1615</dc:subject>
+      <dc:subject>Mendaña de Neira, Alvaro, 1541-1595</dc:subject>
+      <dc:description>The voyages of Pedro Fernandez de Quiros, Volume 1 of 2. Works Issued by the Hakluyt Society. Second Series. No. XIV.</dc:description>
+      <dc:identifier>pg:41200</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
